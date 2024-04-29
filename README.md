@@ -21,3 +21,6 @@ Setup
 Register for an API key at OpenWeather API.
 Follow the API details provided at 5 day / 3 hour forecast API.
 This project provides practical experience with AJAX and API integration in building modern web applications.
+
+
+I have removed the MY API KEY FOR NOW.
