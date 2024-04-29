@@ -4,7 +4,7 @@ document.getElementById('locationForm').addEventListener('submit', function(even
 });
 
 function fetchWeather() {
-    const apiKey = "dfd8d25efbe73ee107c0e29be146190a";
+    const apiKey = "";
     const locationType = document.querySelector('input[name="locationType"]:checked').value;
     const locationInput = document.getElementById('locationInput').value.trim();
 
